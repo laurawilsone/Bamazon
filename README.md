@@ -19,7 +19,7 @@
   If the purchase goes through, it updates the stock quantity to reflect the purchase.
   It will also update the product sales in the department table.
   
-  #Technologies Used
+  # Technologies Used
   * Node
   * MySQL NPM
   * Inquirer NPM
