@@ -23,3 +23,6 @@
   * Node
   * MySQL NPM
   * Inquirer NPM
+
+# Demo
+![customer screenshot](../images/screenshot of customer.png)
