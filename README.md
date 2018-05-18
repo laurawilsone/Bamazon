@@ -1,6 +1,6 @@
 # Bamazon
 
-#Getting Started
+# Getting Started
 * Clone the repository 
 * Run command in Terminal or Gitbash 'npm install'
 * Run command depending which mode you would like to be on:
