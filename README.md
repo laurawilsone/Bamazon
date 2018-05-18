@@ -25,4 +25,4 @@
   * Inquirer NPM
 
 # Demo
-![customer screenshot](../images/screenshot of customer.png)
+![customer screenshot](../images/screenshot_of_customer.png)
